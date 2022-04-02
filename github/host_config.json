@@ -1,5 +1,5 @@
 {
-	"token": "<evalai_user_auth_token>",
-	"team_pk": "<host_team_pk>",
-	"evalai_host_url": "<evalai_host_url>"
+	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3OTQ4NDE2MSwianRpIjoiNzVjMmU2MGM4NzkwNGVjZGE2ODBjZTY2OTFhZTJhODgiLCJ1c2VyX2lkIjoxfQ.OMU5GbO95cTHq4WOr3fPv0uomQkn7YVbeq62yAACVeE",
+	"team_pk": "34",
+	"evalai_host_url": "http://10.128.10.96:8888/"
 }
